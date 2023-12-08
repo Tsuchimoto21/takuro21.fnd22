@@ -17,18 +17,18 @@ img{
 div{
     position: absolute;
     left: auto;
-    bottom: -20px
+    bottom: -25px;
 }
 
 div2{
     position: absolute;
     margin: auto;
-    bottom: -20px
+    bottom: -25px;
 }
 div3{
     position: absolute;
     right: auto;
-    bottom: -20px
+    bottom: -25px;
 }
 
 p1{
@@ -53,9 +53,21 @@ p4{
     flex-direction: column;
     align-items: center;
 }
+#rectangle1{
+    margin: auto;
+    width: auto;
+    height: 50px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
 .text{
     font-size: 70px;
     
+}
+.text1{
+    font-size: 40px;
 }
 #button{
     margin-top: auto;
