@@ -32,6 +32,8 @@ div3{
 }
 
 p1{
+    position: absolute;
+    bottom: 0px
     font-size: 20px;
 }
 
