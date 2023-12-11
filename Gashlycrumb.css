@@ -17,18 +17,18 @@ img{
 div{
     position: absolute;
     left: auto;
-    bottom: -10px;
+    bottom: -5px;
 }
 
 div2{
     position: absolute;
     margin: auto;
-    bottom: -10px;
+    bottom: -5px;
 }
 div3{
     position: absolute;
     right: auto;
-    bottom: -10px;
+    bottom: -5px;
 }
 
 p1{
